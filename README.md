@@ -10,13 +10,15 @@ Este proyecto implementa un sistema de conducción autónoma en Unity que combin
 > *Aquí puedes ver al agente navegando de forma autónoma, respetando carriles y esquivando obstáculos dinámicos.*
 
 ![GIF del Funcionamiento](Ruta/A/Tu/Gif_Demo.gif)
-*(Reemplaza `Ruta/A/Tu/Gif_Demo.gif` con la ubicación real de tu archivo .gif)*
+
+### 🏙️ Entorno Urbano (La Ciudad)
+![Vista de la Ciudad](Ruta/A/Tu/Foto_Ciudad.png)
 
 ### 🏎️ El Vehículo
 > *Vista detallada del agente (Taxi) y sus sensores de percepción (Raycasts).*
 
 ![Vista del Vehículo](Ruta/A/Tu/Foto_Vehiculo.png)
-*(Reemplaza `Ruta/A/Tu/Foto_Vehiculo.png` con la ubicación real de tu imagen)*
+
 
 ---
 
