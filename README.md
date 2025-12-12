@@ -1,4 +1,4 @@
-# 🚖 Vehículo Autónomo con IA Híbrida (ML-Agents + A*)
+# 🚖 Vehículo Autónomo con IA Híbrida (ML-Agents)
 
 Este proyecto implementa un sistema de conducción autónoma en Unity que combina **Aprendizaje por Refuerzo (Reinforcement Learning)** para el control físico y evasión de obstáculos, con algoritmos de **Búsqueda A* (A-Star)** para la navegación global en una ciudad simulada.
 
