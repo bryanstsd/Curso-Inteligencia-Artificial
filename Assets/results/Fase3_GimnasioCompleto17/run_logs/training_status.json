@@ -1,0 +1,56 @@
+{
+    "CarDriver": {
+        "checkpoints": [
+            {
+                "steps": 24645,
+                "file_path": "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-24645.onnx",
+                "reward": 4.1188682448118925,
+                "creation_time": 1764754447.2033563,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-24645.pt"
+                ]
+            },
+            {
+                "steps": 118902,
+                "file_path": "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-118902.onnx",
+                "reward": 20.934247272355215,
+                "creation_time": 1764755214.4806187,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-118902.pt"
+                ]
+            },
+            {
+                "steps": 195476,
+                "file_path": "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-195476.onnx",
+                "reward": 22.50532574607776,
+                "creation_time": 1764946312.1953604,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-195476.pt"
+                ]
+            },
+            {
+                "steps": 399557,
+                "file_path": "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-399557.onnx",
+                "reward": 24.97068034278022,
+                "creation_time": 1764949879.0564234,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-399557.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 399557,
+            "file_path": "results\\Fase3_GimnasioCompleto17\\CarDriver.onnx",
+            "reward": 24.97068034278022,
+            "creation_time": 1764949879.0564234,
+            "auxillary_file_paths": [
+                "results\\Fase3_GimnasioCompleto17\\CarDriver\\CarDriver-399557.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu118"
+    }
+}

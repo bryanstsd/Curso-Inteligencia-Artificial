@@ -1,0 +1,29 @@
+{
+    "CarDriver": {
+        "checkpoints": [
+            {
+                "steps": 1832,
+                "file_path": "results\\Fase3_GimnasioCompleto16\\CarDriver\\CarDriver-1832.onnx",
+                "reward": -3.178675577044487,
+                "creation_time": 1764754167.8720338,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto16\\CarDriver\\CarDriver-1832.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1832,
+            "file_path": "results\\Fase3_GimnasioCompleto16\\CarDriver.onnx",
+            "reward": -3.178675577044487,
+            "creation_time": 1764754167.8720338,
+            "auxillary_file_paths": [
+                "results\\Fase3_GimnasioCompleto16\\CarDriver\\CarDriver-1832.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu118"
+    }
+}

@@ -1,0 +1,56 @@
+{
+    "CarDriver": {
+        "checkpoints": [
+            {
+                "steps": 499982,
+                "file_path": "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-499982.onnx",
+                "reward": 40.35569295287132,
+                "creation_time": 1764315099.299115,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-499982.pt"
+                ]
+            },
+            {
+                "steps": 999966,
+                "file_path": "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-999966.onnx",
+                "reward": 19.28455925732851,
+                "creation_time": 1764318558.285484,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-999966.pt"
+                ]
+            },
+            {
+                "steps": 1435816,
+                "file_path": "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-1435816.onnx",
+                "reward": 18.11031655852611,
+                "creation_time": 1764322017.6232157,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-1435816.pt"
+                ]
+            },
+            {
+                "steps": 1477381,
+                "file_path": "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-1477381.onnx",
+                "reward": 27.94980478286743,
+                "creation_time": 1764402152.605045,
+                "auxillary_file_paths": [
+                    "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-1477381.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1477381,
+            "file_path": "results\\Fase3_GimnasioCompleto15\\CarDriver.onnx",
+            "reward": 27.94980478286743,
+            "creation_time": 1764402152.605045,
+            "auxillary_file_paths": [
+                "results\\Fase3_GimnasioCompleto15\\CarDriver\\CarDriver-1477381.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "2.4.1+cu118"
+    }
+}
